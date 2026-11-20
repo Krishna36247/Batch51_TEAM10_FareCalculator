@@ -73,5 +73,9 @@ gcc campus_shuttle.c -o campus_shuttle
 - Enter `2` to view the route stops and distance chart.
 - Enter `3` to exit the application.
 - Follow the on-screen instructions to enter journey details and student concession information.
+
+DECLARATION : Took Help Of AI tools for some functions and guidance.
+
+
 THANK YOU 
 IF YOU FIND OUR PROJECT HELPFUL GIVE US A STAR
