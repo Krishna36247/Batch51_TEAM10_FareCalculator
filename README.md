@@ -5,7 +5,7 @@
 **Team Details**
 - **Team Number:** 10
 - **Batch:** 51
-- **Team Members:** Krishna Sharma, Nirali Gupta, Kanishka
+- **Team Members:** Krishna Sharma(590036247), Nirali Gupta(590043182), Kanishka(590043036)
 
 ---
 
