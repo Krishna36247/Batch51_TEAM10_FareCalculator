@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <ctype.h>
 
 #define TOTAL_STOPS 5
 #define BASE_FARE 10.00
